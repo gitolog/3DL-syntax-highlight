@@ -1,0 +1,3 @@
+
+1. Fix class keyword and signature highlighting. Modify dependant regex.
+2. Built-in functions list must be extended. Grab all the variations.
